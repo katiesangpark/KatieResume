@@ -38,7 +38,7 @@ Well known e-commerce business in Vitamin supplement
 
 
 ##EDUCATION
-###University of Washington, Tacoma (Class of 2012)
+##University of Washington, Tacoma (Class of 2012)
 
 **Bachelor of Science in Computer Science and Systems**
 
