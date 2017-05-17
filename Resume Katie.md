@@ -51,8 +51,13 @@ o	Collaborated with Samsung’s Mobile Engineering Lab to identify and analyze f
 
 o Teach Algebra, Geometry, Calculus, and Statistics
 
-##EDUCATION
-##University of Washington, Tacoma (Class of 2012)
+## EDUCATION
+
+
+## Kal Academy (SEPT 2016 - Present)
+   DEVELOPER TRACK
+
+## University of Washington, Tacoma (Class of 2012)
 
 **Bachelor of Science in Computer Science and Systems**
 
@@ -75,7 +80,7 @@ Honors
 
 **Proficient in**
 
-- JAVA 7, Python 2.7.8 & 3.4.2
+- JAVA 7, Python 2.7.8 & 3.4.2, C#, T-SQL
 
 **Familiar with**
 
