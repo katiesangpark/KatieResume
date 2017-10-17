@@ -7,10 +7,19 @@
 5008 38th ST CT NE 
 Tacoma WA 98422
 
+
+
+## Software Design Engineer at Microsoft** (JUL 2017 - Present)
+Software Engineer Apprenticeship Program (LEAP Program through InConsulting) at Microsoft
+
+- Individual project - Office 365 Word Translator
+    Frontend: JavaScript web stack (Typescript, JavaScript, React)
+    Backend: C#
+- Group project - Using Unity3D, visualized data from an internal Microsoft tool
+
 ## My Life (Federal Way, WA)
 Well known e-commerce business in vitamin supplement
-
-**General Manager** (SEPT 2015 - Present)
+**General Manager** (SEPT 2015 - JUL 2017)
 
 - Collaborate with development teams to discuss, analyze, or resolve UI issues
 - Manage e-commerce website contents: various products, prices and promotions
