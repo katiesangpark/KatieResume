@@ -13,8 +13,8 @@ Tacoma WA 98422
 Software Engineer Apprenticeship Program (LEAP Program through InConsulting) at Microsoft
 
 - Individual project - Office 365 Word Translator
-    Frontend: JavaScript web stack (Typescript, JavaScript, React)
-    Backend: C#
+    **Frontend**: JavaScript web stack (Typescript, JavaScript, React)
+    **Backend**: C#
 - Group project - Using Unity3D, visualized data from an internal Microsoft tool
 
 ## My Life (Federal Way, WA)
@@ -27,7 +27,7 @@ Well known e-commerce business in vitamin supplement
 - Develop for document style guidelines for web site content for employee education purpose
 
 ## Seattle Tilth Alliance (Auburn WA)
-**Tilth Alliance provides farm business training and support to farmers developing new farm businesses.
+**Tilth Alliance provides farm business training and support to farmers developing new farm businesses.**
 
 Organic Certified Smart Farmer @ Starganic (Jan 2016 - Present)
 - Design, Research and development smart farming program
@@ -62,12 +62,7 @@ o Teach Algebra, Geometry, Calculus, and Statistics
 
 ## EDUCATION
 
-
-## Kal Academy (SEPT 2016 - Present)
-   DEVELOPER TRACK
-
 ## University of Washington, Tacoma (Class of 2012)
-
 **Bachelor of Science in Computer Science and Systems**
 
 R&D   Smart & Secure Computing Research Group SEPT 2008- JUN 2012
@@ -76,6 +71,9 @@ Honors
      KSEA(Korean American Scientists and Engineers Association)
       2009 The college student representative of the USA
       The Young Generation Forum in Seoul, South Korea 
+
+## Kal Academy (SEPT 2016 - Present)
+   DEVELOPER TRACK
 
 ## VOLUNTEER EXPERIENCE
 
@@ -89,8 +87,8 @@ Honors
 
 **Proficient in**
 
-- JAVA 7, Python 2.7.8 & 3.4.2, C#, T-SQL
+- Typescript, JavaScript, React, JAVA 7, Python 2.7.8 & 3.4.2, C#, T-SQL
 
 **Familiar with**
 
-- HTML5, CSS, PHP
+- HTML5, CSS, PHP, Unity3D
