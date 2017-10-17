@@ -31,7 +31,7 @@ Well known e-commerce business in vitamin supplement
 
 Organic Certified Smart Farmer @ Starganic (Jan 2016 - Present)
 - Design, Research and development smart farming program
- : Collecting weather and soil condition data and controlling watering time and temperature automatically
+ : Collecting weather and soil condition datas, controlling watering time, and temperature automatically
 - Design and build website to shared collected and analyzed data with other farmers - inprogress
  : Starganic.com
  
@@ -44,7 +44,7 @@ o Performed software tests on device under test based on compliance and specific
 - Testing for Samsung LTE Smart phone, Tablet PC, and wearables based on T-Mobile required software testing. 
 - Service carrier specification and requirement analyzing. 
 - Test planning and test issue management. 
-o	Collaborated with Samsung’s Mobile Engineering Lab to identify and analyze failures, which resulted in greatly improved quality of the products that were under interest. 
+- Collaborated with Samsung’s Mobile Engineering Lab to identify and analyze failures, which resulted in greatly improved quality of the products that were under interest. 
 -	Ability to identify valid defects and provide defect log, prioritize, track issues, and report test results to project/product managers
 
 ## ASSANG (Seoul, Korea)
