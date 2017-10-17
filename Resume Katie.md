@@ -69,9 +69,9 @@ o Performed software tests on device under test based on compliance and specific
 - Smart & Secure Computing Research Group SEPT 2008- JUN 2012
 - Develop tutorial for Android application for 4.0.4
 **Honors** 
-     - KSEA(Korean American Scientists and Engineers Association)
-     - 2009 The college student representative of the USA
-     - The Young Generation Forum in Seoul, South Korea 
+- KSEA(Korean American Scientists and Engineers Association)
+- 2009 The college student representative of the USA
+- The Young Generation Forum in Seoul, South Korea 
 
 ## Kal Academy (SEPT 2016 - Present)
    DEVELOPER TRACK
