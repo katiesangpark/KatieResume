@@ -58,19 +58,20 @@ o Performed software tests on device under test based on compliance and specific
 
 ## JEI Learning Center (JAN 2004 - AUG 2012)
 
-o Teach Algebra, Geometry, Calculus, and Statistics
+- Teach Algebra, Geometry, Calculus, and Statistics
 
 ## EDUCATION
 
 ## University of Washington, Tacoma (Class of 2012)
 **Bachelor of Science in Computer Science and Systems**
 
-R&D   Smart & Secure Computing Research Group SEPT 2008- JUN 2012
-      Develop tutorial for Android application for 4.0.4
-Honors 
-     KSEA(Korean American Scientists and Engineers Association)
-      2009 The college student representative of the USA
-      The Young Generation Forum in Seoul, South Korea 
+**R&D** 
+- Smart & Secure Computing Research Group SEPT 2008- JUN 2012
+- Develop tutorial for Android application for 4.0.4
+**Honors** 
+     - KSEA(Korean American Scientists and Engineers Association)
+     - 2009 The college student representative of the USA
+     - The Young Generation Forum in Seoul, South Korea 
 
 ## Kal Academy (SEPT 2016 - Present)
    DEVELOPER TRACK
