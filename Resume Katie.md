@@ -9,7 +9,7 @@ Tacoma WA 98422
 
 
 
-## Software Design Engineer at Microsoft** (JUL 2017 - Present)
+## Software Design Engineer at Microsoft (JUL 2017 - Present)
 Software Engineer Apprenticeship Program (LEAP Program through InConsulting) at Microsoft
 
 - Individual project - Office 365 Word Translator
@@ -27,9 +27,9 @@ Well known e-commerce business in vitamin supplement
 - Develop for document style guidelines for web site content for employee education purpose
 
 ## Seattle Tilth Alliance (Auburn WA)
-Tilth Alliance provides farm business training and support to farmers developing new farm businesses.
+**Tilth Alliance provides farm business training and support to farmers developing new farm businesses.
 
-** Organic Certified Smart Farmer @ Starganic (Jan 2016 - Present)
+Organic Certified Smart Farmer @ Starganic (Jan 2016 - Present)
 - Design, Research and development smart farming program
  : Collecting weather and soil condition data and controlling watering time and temperature automatically
 - Design and build website to shared collected and analyzed data with other farmers - inprogress
