@@ -4,11 +4,6 @@
 
 206-779-4363
 
-5008 38th ST CT NE 
-Tacoma WA 98422
-
-
-
 ## Software Design Engineer at Microsoft (JUL 2017 - Present)
 Software Engineer Apprenticeship Program (LEAP Program through InConsulting) at Microsoft
 
