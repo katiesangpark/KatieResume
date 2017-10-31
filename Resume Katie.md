@@ -77,8 +77,10 @@ o Performed software tests on device under test based on compliance and specific
 ## Kal Academy (SEPT 2016 - Present)
 **DEVELOPER TRACK**
 - T-SQL, Microsoft Excel, Python, R, Azure Machine Learning, HDInsight, Spark
+
 **Serverless Computing**
 - Azure, C#, C++
+
 **IoT**
 - Azure, Raspberry Pi, Node.js
 
