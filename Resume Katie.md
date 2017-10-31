@@ -35,7 +35,7 @@ Organic Certified Smart Farmer @ Starganic (Jan 2016 - Present)
 
 **QA Engineer I** (DEC 2014 - AUG 2015)
 
-o Performed software tests on device under test based on compliance and specifications of carrier in live network environment. 
+- Performed software tests on device under test based on compliance and specifications of carrier in live network environment. 
 - Testing for Samsung LTE Smart phone, Tablet PC, and wearables based on T-Mobile required software testing. 
 - Service carrier specification and requirement analyzing. 
 - Test planning and test issue management. 
